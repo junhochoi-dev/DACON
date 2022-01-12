@@ -1,0 +1,2 @@
+train_test_split()의 사용과 교차 검증 cross_val_score 이용하기
+https://nicola-ml.tistory.com/26
